@@ -311,6 +311,13 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Test_Copado_01__c</fullName>
+        <description>To test copado</description>
+        <externalId>false</externalId>
+        <label>Test Copado 01</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
